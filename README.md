@@ -1,2 +1,1 @@
-# projectscript
-hi soma......
+CALCULATOR
